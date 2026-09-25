@@ -39,7 +39,3 @@ Tested valid BCD inputs: <br/>
 <br />
 <br />
 
-
-<br />
-<br />
-Line Tracking:  <br/>
