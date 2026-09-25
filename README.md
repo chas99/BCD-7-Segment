@@ -26,7 +26,7 @@ Tested valid BCD inputs: <br/>
 
   
 
-<img src="https://i.imgur.com/jjxJYdx.jpeg" height="80%" width="80%" alt="Robot Car"/>
+<img src="https://imgur.com/a/DFIvFVn" height="80%" width="80%" alt="Diagram"/>
 
 <img src="https://i.imgur.com/1QLDwt0.jpeg" height="80%" width="80%" alt="Motor"/>
  
