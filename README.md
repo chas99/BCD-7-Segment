@@ -4,25 +4,27 @@
 <h1>BCD 7 Segment Multisim Schematic</h1>
 
 <h2>Description</h2>
-Project consists of Arduino code that includes autonomous movements, IR control, ultrasonic detection, line tracking, app control, and speed adjustment. The robot car has various components: IR receiver, motor, Arduino board, motor shield, car chassis, universal wheel, voltage meter, Li-ion battery etc.
+Project consists of a BCD 7 Segment Schematic created with Multisim. Final goal includes switches, 7447 decoder, and a 7 segment display. Schematic includes four switches, LEDs, 330 Ohm resistors, binary input bits, etc.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>Arduino</b>
-- <b>Arduino IDE</b> 
+- <b>330 Ohm Resistors</b>
+- <b>LEDs</b>
+- <b>7447 Decoder</b>
+- <b>7-segment display</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Multisim</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Autonomous Driving (Code outputs the car moving forward for two seconds, reversing for two seconds, left for two seconds, right for two secs, and stop): <br/>
+Tested valid BCD inputs: <br/>
 
-  https://www.youtube.com/shorts/cmfrPBDaFV4
+  
 
 <img src="https://i.imgur.com/jjxJYdx.jpeg" height="80%" width="80%" alt="Robot Car"/>
 
