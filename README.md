@@ -17,7 +17,7 @@ Project consists of a BCD 7 Segment Schematic created with Multisim. Final goal 
 
 <h2>Environments Used </h2>
 
-- <b>Multisim</b> (21H2)
+- <b>Multisim</b>
 
 <h2>Program walk-through:</h2>
 
