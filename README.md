@@ -26,32 +26,19 @@ Tested valid BCD inputs: <br/>
 
   
 
-<img src="https://i.imgur.com/gkVTAQC.png" height="80%" width="80%" alt="Diagram"/>
+<img src="https://i.imgur.com/UIzl8Jx.png" height="80%" width="80%" alt="Diagram"/>
 
-<img src="https://i.imgur.com/1QLDwt0.jpeg" height="80%" width="80%" alt="Motor"/>
+<img src="https://i.imgur.com/BktESxa.png" height="80%" width="80%" alt="Diagram"/>
+
+<img src="https://i.imgur.com/UGVtwBs.png" height="80%" width="80%" alt="Diagram"/>
+
+<img src="https://i.imgur.com/PjNaB38.png" height="80%" width="80%" alt="Diagram"/>
+
+<img src="https://i.imgur.com/GfwvsPA.png" height="80%" width="80%" alt="Motor"/>
  
 <br />
 <br />
-IR Control:  <br/>
 
-
-IR receiver that allows rc car to be controlled with a remote
-
-<br />
-<br />
-Ultrasonic Detection: <br/>
-
-https://youtube.com/shorts/t_8fgBPIHT4
-
-Installed an ultrasonic sensor on the robot car and programmed the car to keep some distance from object to move
-
-<img src="https://i.imgur.com/dImTMOa.jpeg" height="80%" width="80%" alt="Wiring"/>
-
-<img src="https://i.imgur.com/a58asMc.jpeg" height="80%" width="80%" alt=""/>
-
-<img src="https://i.imgur.com/B4Kep9g.jpeg" height="80%" width="80%" alt="Servo Motor"/>
-
-<img src="https://i.imgur.com/zn4cHof.jpeg" height="80%" width="80%" alt="Buzzer Sensor Module"/>
 
 <br />
 <br />
