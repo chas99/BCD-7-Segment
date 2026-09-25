@@ -1,7 +1,7 @@
 # BCD-7-Segment
-BCD 7 Segment Multisim Schematic
 
-h1>BCD 7 Segment Multisim Schematic</h1>
+
+<h1>BCD 7 Segment Multisim Schematic</h1>
 
 <h2>Description</h2>
 Project consists of Arduino code that includes autonomous movements, IR control, ultrasonic detection, line tracking, app control, and speed adjustment. The robot car has various components: IR receiver, motor, Arduino board, motor shield, car chassis, universal wheel, voltage meter, Li-ion battery etc.
